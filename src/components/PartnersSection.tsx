@@ -30,7 +30,11 @@ const PartnersSection = () => {
             Academic & Research Network
           </h2>
           <p className="font-body text-muted-foreground text-lg leading-relaxed">
-            We collaborate with premier academic institutions, scientists, and practitioners working in esteemed organizations worldwide for timely advice, guidance, and feedback.
+            We collaborate with premier academic institutions, scientists, and practitioners working in esteemed organizations worldwide for timely advice, guidance, and feedback. 
+            Works closely with a diverse group of partners to promote sustainable development, environmental stewardship, and community empowerment. 
+            Our partners include government agencies, non-profit organizations, academic institutions, and businesses. 
+            Our team of expert researchers and staff is dedicated to building strong partnerships that promote sustainability and environmental stewardship. 
+            We regularly get benefited with our network with academicians, practitioners and professionals working with:
           </p>
         </motion.div>
 
