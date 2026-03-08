@@ -29,7 +29,7 @@ const OfferingsSection = () => {
             Domains of Expertise
           </h2>
           <p className="font-body text-muted-foreground text-lg leading-relaxed">
-            We serve local communities, government agencies, non-profit organizations, and businesses with innovative solutions to complex challenges.
+            TIINEC works with a wide range of clients, including local communities, government agencies, non-profit organisations, and businesses. We provide innovative, context-specific solutions to complex challenges in areas such as environmental management, climate change, water resources and wetlands, advanced geospatial technologies, natural resources and agriculture, and community engagement:
           </p>
         </motion.div>
 
@@ -56,7 +56,7 @@ const OfferingsSection = () => {
           transition={{ delay: 0.8 }}
           className="mt-12 max-w-2xl mx-auto text-center font-body text-muted-foreground leading-relaxed"
         >
-          Every client has unique needs. We work closely with you to develop customized solutions that meet your specific sustainability goals.
+          We understand that each client has distinct needs and priorities. For this reason, we work closely with our clients to design tailored approaches that address their specific challenges and support their sustainability goals. Contact us to explore how TIINEC can support your work.
         </motion.p>
       </div>
     </section>
