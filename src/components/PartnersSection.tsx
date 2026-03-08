@@ -3,11 +3,13 @@ import { useRef } from "react";
 import { GraduationCap } from "lucide-react";
 
 const partners = [
-  "Indian Institute of Technology, Roorkee (IIT-R)",
+  "Indian Institute of Technology, Roorkee (IITR)",
   "Jawaharlal Nehru University (JNU)",
   "Symbiosis Institute of Geoinformatics",
   "TERI School of Advanced Studies (TERI-SAS)",
   "The Energy and Resources Institute (TERI)",
+  "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+  "International Institute for Energy Conservation (IIEC) - INDIA",
 ];
 
 const PartnersSection = () => {
